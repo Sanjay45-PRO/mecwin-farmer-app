@@ -4,5 +4,9 @@
   "force_update": false,
   "maintenance": false,
   "maintenance_message": "App is under maintenance. Please try again later.",
-  "update_url": ""
+  "update_url": "",
+  "mqtt_host": "103.146.217.30",
+  "mqtt_port": 1883,
+  "rms_api": "http://103.146.217.30/mecwin_rms/search_imei.php",
+  "admin_api": "http://103.146.217.30:4000"
 }
