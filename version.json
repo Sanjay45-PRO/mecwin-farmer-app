@@ -8,5 +8,5 @@
   "mqtt_host": "103.146.217.30",
   "mqtt_port": 1883,
   "rms_api": "http://103.146.217.30/mecwin_rms/search_imei.php",
-  "admin_api": "http://103.146.217.30:4000"
+  "admin_api": "https://admin.mecwinindia.net"
 }
